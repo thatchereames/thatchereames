@@ -15,8 +15,8 @@ Python, Java, HTML, C
 
 ## 💬 Connect with me
 
-✉️ thatcher.eames@gmail.com
-💼 ([https://linkedin.com/li/thatchereames](https://www.linkedin.com/in/thatchereames/))
+📧 thatcher.eames@gmail.com
+💼 [https://linkedin.com/li/thatchereames](https://www.linkedin.com/in/thatchereames/)
 <!--
 **thatchereames/thatchereames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
