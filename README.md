@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Thatcher 👋
+
+## 🧑🏻 About Me
+🎓 Attending University of California San Diego
+📝 Majoring in Mathematics and Computer Science
+🧠 Currently learning systems programming in C
+🌱 Working to grow my Replit
+🔍 Searching for an Summer 2025 internship
+
+## 👨🏻‍💻 Languages
+Python, Java, HTML, and C
+
+## 💬 Connect with me
+✉️ thatcher.eames@gmail.com
+💼 linkedin.com/li/thatchereames
+
+
+
 
 <!--
 **thatchereames/thatchereames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
