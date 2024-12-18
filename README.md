@@ -1,7 +1,6 @@
 # Hi, I'm Thatcher 👋
-
 ## 🧑🏻 About Me
-🎓 Attending University of California San Diego
+🎓 Attending the University of California, San Diego
 
 📝 Majoring in Mathematics and Computer Science
 
@@ -9,7 +8,7 @@
 
 🌱 Working to grow my GitHub
 
-🔍 Searching for an Summer 2025 internship
+🔍 Searching for a Summer 2025 Internship
 
 ## 👨🏻‍💻 Languages
 Python, Java, HTML, C
