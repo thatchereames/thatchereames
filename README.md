@@ -2,21 +2,22 @@
 
 ## 🧑🏻 About Me
 🎓 Attending University of California San Diego
+
 📝 Majoring in Mathematics and Computer Science
+
 🧠 Currently learning systems programming in C
-🌱 Working to grow my Replit
+
+🌱 Working to grow my GitHub
+
 🔍 Searching for an Summer 2025 internship
 
 ## 👨🏻‍💻 Languages
-Python, Java, HTML, and C
+Python, Java, HTML, C
 
 ## 💬 Connect with me
+
 ✉️ thatcher.eames@gmail.com
-💼 linkedin.com/li/thatchereames
-
-
-
-
+💼 ([https://linkedin.com/li/thatchereames](https://www.linkedin.com/in/thatchereames/))
 <!--
 **thatchereames/thatchereames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
