@@ -4,14 +4,14 @@
 
 📝 Majoring in Mathematics and Computer Science
 
-🧠 Currently learning systems programming in C
+🧠 Currently learning advanced algorythms and team software development
 
 🌱 Working to grow my GitHub
 
-🔍 Searching for a Summer 2025 Internship
+🔍 Searching for a Full Time Position
 
 ## 👨🏻‍💻 Languages
-Python, Java, HTML, C
+Python, Java, HTML/CSS, TypeScript, C++, C
 
 ## 💬 Connect with me
 
