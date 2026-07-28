@@ -1,17 +1,19 @@
 # Hi, I'm Thatcher 👋
 ## 🧑🏻 About Me
-🎓 Attending the University of California, San Diego
+🎓 Earned a BS in Mathematics and Computer Science from UC San Diego
 
-📝 Majoring in Mathematics and Computer Science
+📖 Attending the University of Southern California
 
-🧠 Currently learning advanced algorythms and team software development
+📝 Majoring in Computer Science, Data Science Specialty
+
+🧠 Currently learning SQL and Financial Software @ Related Companies internship
 
 🌱 Working to grow my GitHub
 
 🔍 Searching for a Full Time Position
 
 ## 👨🏻‍💻 Languages
-Python, Java, HTML/CSS, TypeScript, C++, C
+Java, Python (Pandas, Numpy, & SKLearn), HTML/CSS, TypeScript, React, SQL, C/C++
 
 ## 💬 Connect with me
 
