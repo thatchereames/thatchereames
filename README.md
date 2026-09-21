@@ -6,11 +6,11 @@
 
 📝 Majoring in Computer Science, Data Science Specialty
 
-🧠 Currently learning SQL and Financial Software @ Related Companies internship
+🧠 Currently learning Full Stack Development and MCP @ Quikturn fall internship
 
 🌱 Working to grow my GitHub
 
-🔍 Searching for a Full Time Position
+🔍 Searching for a Summer 27 Internship
 
 ## 👨🏻‍💻 Languages
 Java, Python (Pandas, Numpy, & SKLearn), HTML/CSS, TypeScript, React, SQL, C/C++
