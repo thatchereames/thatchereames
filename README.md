@@ -1,5 +1,5 @@
 # Hi, I'm Thatcher 👋
-## 🧑🏻 About Me
+## 👨🏻‍💻 About Me
 🎓 Earned a BS in Mathematics and Computer Science from UC San Diego
 
 📖 Attending the University of Southern California
@@ -10,7 +10,7 @@
 
 🌱 Working to grow my GitHub
 
-🔍 Searching for a Summer 27 Internship
+🔍 Searching for a Summer '27 Internship
 
 ## 👨🏻‍💻 Languages
 Java, Python (Pandas, Numpy, & SKLearn), HTML/CSS, TypeScript, React, SQL, C/C++
